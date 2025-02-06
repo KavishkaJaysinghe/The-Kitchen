@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\myproject\\wpf\\programing_project_EE3254\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\views\\mainview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\admindataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\admindataset.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\admindataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\admindataset.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|d:\\myproject\\wpf\\programing_project_ee3254\\programing_project_ee3254\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page7.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\admindataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\admindataset.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\admindataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\admindataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\cas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\cas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\styles\\buttonstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\cas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\cas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\side_dishes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\side_dishes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\desserts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\desserts.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\drink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\drink.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\appetizer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\appetizer.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\add_item.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\add_item.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.sale.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\myproject\\Website1\\.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.Customerdet.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\styles\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\styles\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.login.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\appetizer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\appetizer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_ee3254\\pages\\add_item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B89D0DC3-D5DA-4D72-A6F4-1933BB197B3A}|programing_project_EE3254\\programing_project_EE3254.csproj|solutionrelative:programing_project_ee3254\\pages\\add_item.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Vlad\\AppData\\Local\\Temp\\608d8461-be82-41d8-a1ba-3f44aa3e52e6_LibraryApp-master.zip.2e6\\LibraryApp-master\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo._item.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page5.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page5.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page5.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page5.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page4.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page4.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page4.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page4.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page3.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page3.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page3.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page2.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page2.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page2.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page1.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page1.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page1.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:23:39.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page6.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page6.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page6.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page6.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page6.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page1.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page1.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page1.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page6.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page6.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page6.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page6.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page6.xaml.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAowGsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:23:39.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page7.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page7.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page7.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page7.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page7.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:23:39.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainView.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\MainView.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Views\\MainView.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\MainView.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Views\\MainView.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwCoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:23:39.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Views\\LoginView.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Views\\LoginView.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T04:23:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ButtonStyles.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Styles\\ButtonStyles.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Styles\\ButtonStyles.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Styles\\ButtonStyles.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Styles\\ButtonStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Dictionary1.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Styles\\Dictionary1.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Styles\\Dictionary1.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Styles\\Dictionary1.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Styles\\Dictionary1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdminDataSet.Designer.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\AdminDataSet.Designer.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.Designer.cs",
+              "RelativeToolTip": "programing_project_EE3254\\AdminDataSet.Designer.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:15:24.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminDataSet.xsc",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xsc",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\AdminDataSet.xsc",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xsc",
+              "RelativeToolTip": "programing_project_EE3254\\AdminDataSet.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2024-09-27T10:15:28.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Side_Dishes.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Side_Dishes.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\Side_Dishes.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Side_Dishes.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\Side_Dishes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Add_item.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Add_item.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\Add_item.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Add_item.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\Add_item.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Add_item.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Add_item.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\Add_item.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Add_item.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\Add_item.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwFcAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Views\\LoginView.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\LoginView.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\App.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "dbo.sale.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.sale.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.sale.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-21T10:30:02.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "dbo.login.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.login.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.login.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-21T07:44:59.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page3.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page3.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page3.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "dbo._item.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo._item.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo._item.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-20T09:39:27.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.config",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\App.config",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.config",
+              "RelativeToolTip": "programing_project_EE3254\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-27T10:15:32.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDataSet.xsd",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xsd",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\AdminDataSet.xsd",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xsd",
+              "RelativeToolTip": "programing_project_EE3254\\AdminDataSet.xsd",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKzSURBVDhP3VRNTxNRFD2d6XTa6fQDmAJiQW3AIC5QE0lgpQuXJCauMHHhyriUPRH1B7gwMe5NZGM0UaM7iQsToC4UoiRAtA0ptFjo2Jl\u002BTWem3veshAiYkODGk0nem3nvnTn3vnMvDhue5rgnNnR9LFusjr1LbWAxp2PdrMGwbDiuC1WSoAUl9LdHMBzXMNARTmrR6L2/Ej6eXZysu43bRasOgd49Htre4A/N\u002BRYibyAgiVAk76trQ/2jXvZxTdfPJ1ObHS\u002BXM5hL57FmlFGsOXgws9R3NKwg0abi7JEW9GthtCkyBMGDSt3GhlnFQu4H5rOkvljlP\u002BCEhZI1UXacUZEyEPH7UHMakL021o0qShSiUauj7rjwCQJIEK2JKBGhUbNh2S5MGvPlHYQ3ns9RPmSc1EK4OdyHDsUPP4XRoMMmhZsxKviQ2cKj5Ao/1BLwUYgiQrKEnkgQio/TcLDU4CNJTuslCsOB6BEQoA2qT0KQRqaG3R1T861QQjyi4Pq5BK4OHseV0924kGhHnNLyG5zapLBECschSe/T33ddvUvfVSJ3aa4F/ThD\u002BdwJVf5DIUNXOIDe1hDlyqHcVUiNyVXnSzV46RIGO6OI\u002BqXm7v2xTX2iRcXlgXjzbW88/bzanO2PbYWHhf\u002BUkPmTGZ2Znl1gmUaFbMZwYMIqeXWrYlGjqGBl0\u002BA206sW\u002BrQgXz8w4duvWdydnsfDmWW8WV7jSi/1dmJ85BRf57ZJtAaRIt89\u002B7KKAWpHMWoArEIaFJtpOciSmgVqX\u002BwwmX6qUKlP2aILWWTd59cYksUc4\u002BJFcX/60wsKY7RA0kXqS80utV0xrCGwKupSA6yG79y6ODjZXNoFfmZLL04kM4Wh10sZzK7mkSmWYdqsBwpopeo4RqYf6YmR8bvRrfqnYm3RJ/z0vwfwEw/hICOMmp/tAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-09-27T10:15:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminDataSet.xss",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xss",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\AdminDataSet.xss",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\AdminDataSet.xss",
+              "RelativeToolTip": "programing_project_EE3254\\AdminDataSet.xss",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-27T10:15:31.188Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "cas.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\cas.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\cas.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\cas.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\cas.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T10:31:22.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\App.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\App.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-09-26T10:31:17.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "cas.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\cas.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\cas.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\cas.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\cas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T18:45:55.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\AppData\\Local\\Temp\\608d8461-be82-41d8-a1ba-3f44aa3e52e6_LibraryApp-master.zip.2e6\\LibraryApp-master\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Vlad\\AppData\\Local\\Temp\\608d8461-be82-41d8-a1ba-3f44aa3e52e6_LibraryApp-master.zip.2e6\\LibraryApp-master\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T18:29:31.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Desserts.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Desserts.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\Desserts.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Desserts.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\Desserts.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Drink.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Drink.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\Drink.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\Drink.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\Drink.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page2.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page2.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page2.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": ".h",
+              "DocumentMoniker": "D:\\myproject\\Website1\\.h",
+              "RelativeDocumentMoniker": "..\\..\\Website1\\.h",
+              "ToolTip": "D:\\myproject\\Website1\\.h",
+              "RelativeToolTip": "..\\..\\Website1\\.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T04:23:39.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "dbo.Customerdet.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.Customerdet.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/localhost_SQLEXPRESS/Admin/True/SqlTable/dbo.Customerdet.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-02-21T10:30:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Page4.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page4.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page4.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page4.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\Page4.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAACAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appetizer.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\appetizer.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\appetizer.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\appetizer.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\appetizer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appetizer.xaml.cs",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\appetizer.xaml.cs",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\pages\\appetizer.xaml.cs",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\pages\\appetizer.xaml.cs",
+              "RelativeToolTip": "programing_project_EE3254\\pages\\appetizer.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAH\u002BSURBVDhP7ZRPaNNQHMe/TdNma2NrW1jUFYZYN0YKHqZischAMCCjh94siEfp0buIeBZ2LYKXHvSWQ4toDkKC0F7EU93NQyEthkFnG9uuaf6YhIcusknBHTz4gR\u002B/x\u002B/7e1/ee8l7IRzhmbi3s0TTzc3zcYQpp3R3K9sk0sJQJPtscgmcSzJ4\u002BeErPvemj99\u002B6t0j0sKEcF96SsbgV\u002BOX\u002BQvxyvu9A9zaSOL2\u002BrK8Zn9R6vU66QBomkYul0OpVNJns9mLYrGoE8mHhhPaImNoI4Nboikcmjb29TkYOr6dZtPbPM\u002BTDmAwGGAymaDb7Q44jttvt9tSoVDQiOyu8AhvPqo7\u002BqHVfP5OReXGCgQ\u002BiRU2BMMwSAcgSZIfiUQC5XIZLMs\u002BSKVSYj6f/\u002B7pgTPs9CbofTPw6E4WQj6JTAyYz\u002BdE/YXjONB1HaIoQtO03el0\u002BpBIQcPrq6Ybbr64jLOMA8e2/MnHYds2RqMR3C2nG43GGVJGmGSfm1evrI8PtMqltSzoMOVPOo5MJuN/GC/6/T5UVVU6nY7saYEVyrKMVquF8Xh8oplnIgjCz/DMTdMk6m\u002BGlmX5Z3bSNhchYHga/Df8e/59Q5pkn2g0CoqioCgKGIYh1T8zHA4Ri7mXnhB4barV6jX3hjzxmryffBG8VycSibyu1WqvSOk0AX4A4Q67Z\u002BxJ14gAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-04-02T04:23:39.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Views\\MainView.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Views\\MainView.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Page7.xaml",
+              "DocumentMoniker": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page7.xaml",
+              "RelativeDocumentMoniker": "programing_project_EE3254\\Page7.xaml",
+              "ToolTip": "D:\\myproject\\wpf\\programing_project_EE3254\\programing_project_EE3254\\Page7.xaml",
+              "RelativeToolTip": "programing_project_EE3254\\Page7.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-02T04:23:39.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

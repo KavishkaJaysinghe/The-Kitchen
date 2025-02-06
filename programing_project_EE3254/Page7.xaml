@@ -1,0 +1,62 @@
+﻿<Page x:Class="programing_project_EE3254.Page7"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:programing_project_EE3254"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="600"
+      Title="Page7">
+    <Border>
+    <Border.Background>
+        <LinearGradientBrush StartPoint="0,0.4" EndPoint="1,0.7">
+            <GradientStop Color="Transparent" Offset="0"/>
+            <GradientStop Color="#FFEBCCBB" Offset="0.389"/>
+        </LinearGradientBrush>
+    </Border.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="1" 
+            CornerRadius="10"                    
+BorderThickness="0"
+Opacity="1">
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,0.4" EndPoint="1,0.7">
+                    <GradientStop Color="Transparent" Offset="0"/>
+                    <GradientStop Color="#FFEBCCBB" Offset="0.389"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid>
+                <TextBlock TextWrapping="Wrap" Margin="10">
+            <Run FontWeight="Bold">Introducing SELLE V1.01: Revolutionizing Point of Sale Systems</Run>
+            <LineBreak/><LineBreak/>
+            SELLE V1.01, a groundbreaking desktop application, marks the culmination of our undergraduate project in desktop application development. Spearheaded by D G K Jayasinghe (Registration Number: EG/2021/4578) and in collaboration with  Dissanayaka P R S K (Registration Number: EG/2021/4492), SELLE V1.01 emerges as a beacon of innovation in the realm of Point of Sale (POS) systems.
+            Our project falls under the category of Point of Sale systems, focusing on revolutionizing cashier systems for restaurants. Aptly named "THE kitchen," our software aims to streamline and enhance the dining experience for both customers and restaurant staff. Through intuitive user interface design and leveraging the power of Windows Presentation Foundation (WPF), we've crafted a solution that transcends traditional POS systems.
+            <LineBreak/><LineBreak/>
+            <Run FontWeight="Bold">User-Centric Design</Run>
+<LineBreak/><LineBreak/>
+            At the heart of SELLE V1.01 lies a commitment to user-centric design. THE kitchen boasts a sleek and modern UI, meticulously crafted to provide users with a seamless and intuitive experience. With WPF, we've been able to create a visually stunning interface that not only enhances usability but also elevates the overall aesthetic appeal of the software.
+            <LineBreak/><LineBreak/>
+                        <Run FontWeight="Bold">Functionality and Featuresn</Run>
+<LineBreak/><LineBreak/>
+            THE kitchen isn't just about aesthetics—it's a powerhouse of functionality. From order management to inventory tracking, our POS system offers a comprehensive suite of features designed to meet the unique needs of restaurants. With WPF, we've been able to implement rich multimedia elements, interactive controls, and seamless data integration, ensuring that every interaction with the software is both efficient and enjoyable.
+            <LineBreak/><LineBreak/>            
+            <Run FontWeight="Bold">Scalability and Flexibility</Run>
+<LineBreak/><LineBreak/>
+            Recognizing the diverse needs of our users, SELLE V1.01 is built for scalability and flexibility. Whether it's a small cafe or a bustling restaurant chain, our POS system can adapt to accommodate businesses of all sizes. WPF's robust architecture enables us to seamlessly scale our software to meet the evolving needs of our clients, ensuring that they remain at the forefront of technological innovation.
+            <LineBreak/><LineBreak/>             
+            <Run FontWeight="Bold">Conclusion</Run>
+<LineBreak/><LineBreak/>
+            In summary, SELLE V1.01 represents a milestone in our journey as aspiring software developers. With its user-centric design, rich functionality, and scalability, THE kitchen sets a new standard for POS systems in the restaurant industry. As we continue to refine and enhance our software, we remain committed to pushing the boundaries of innovation and delivering unparalleled value to our clients and end-users alike.
+
+                </TextBlock>
+            </Grid>
+        </Border>
+    </Grid>
+    </Border>
+</Page>
