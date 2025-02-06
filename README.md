@@ -6,14 +6,23 @@
 
 ## 📸 Screenshots  
 Here are some key screens from the application:  
-<p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/Menu.png?raw=true" width = 100px></p>
-<p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/Menu.png?raw=true" width = 100px></p>
-<p align="center" ><img  src = "https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/Menu.png?raw=true" width = 100px></p>
-- **Sign In Page**  
-- **Sign Up Page**  
-- **About Page**  
 
-*(Images are located in the `assets` folder.)*  
+<p align="center">
+  <img src="https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/singin.png" width="400px">
+  <br><b>🔐 Sign In Page</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/singup.png" width="400px">
+  <br><b>📝 Sign Up Page</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/KavishkaJaysinghe/The-Kitchen/blob/main/assest/Menu.png" width="400px">
+  <br><b>ℹ️ About Page</b>
+</p>
+
+**  
 
 ---
 
